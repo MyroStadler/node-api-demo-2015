@@ -1,13 +1,11 @@
 {
-  "name": "node-mongo-mocha",
-  "description": "Api with node using express + mongodb + mongoose, mocha + supertest, github + heroku + wercker.",
+  "name": "node-api-demo-2015",
+  "description": "Api with node",
   "version": "0.0.1",
   "private": false,
   "dependencies": {
     "express": "3.x",
-    "mongoose": "3.6.x",
-    "supertest": "0.7.0",
-    "mocha": "1.11.0"
+    "mongoose": "3.6.x"
   },
   "scripts": {
     "test" : "mocha",

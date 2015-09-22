@@ -1,7 +1,0 @@
-box: nodesource/trusty
-services:
-  - tutum/mongodb
-build:
-  steps:
-    - npm-install
-    - npm-test
