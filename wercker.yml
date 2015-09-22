@@ -1,6 +1,6 @@
 box: nodesource/trusty
 services:
-  - wercker/mongodb
+  - tutum/mongodb
 build:
   steps:
     - npm-install
