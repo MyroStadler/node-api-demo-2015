@@ -7,9 +7,11 @@ Worse is better.
 
 - install MongoDb from http://docs.mongodb.org/manual/installation/
 - $ npm install
-- (new terminal, same dir) $ mongod
-- (new terminal, same dir) $ node server
-- 
+- (new terminal, same dir) 
+$ mongod
+- (new terminal, same dir) 
+$ node server
+- ?
 
 ## Objectives
 
@@ -19,7 +21,6 @@ Worse is better.
 ## ...future?
 
 - NB: Mocha+ TDD
-- 
 - Linting
 - Caching
 - CI
