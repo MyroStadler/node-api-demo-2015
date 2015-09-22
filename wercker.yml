@@ -1,4 +1,4 @@
-box: node
+box: nodesource/trusty
 services:
   - wercker/mongodb
 build:
