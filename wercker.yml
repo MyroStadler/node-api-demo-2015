@@ -1,4 +1,4 @@
-box: wercker/node
+box: node
 services:
   - wercker/mongodb
 build:
