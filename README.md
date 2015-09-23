@@ -32,7 +32,8 @@ $ ./node_modules/mocha/bin/mocha
 ## TODO list
 
 - Expand unit tests using boilerplate
-- JsHint
+- Introduce models
+- Grunt, JsHint
 - CI
 - Mongo experiments, first is caching solutions then object document storage suitability for EVAs and graphs
 
