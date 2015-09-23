@@ -1,28 +1,31 @@
 # node-api-demo-2015
 
 Keep it simple.
+Low level all the things.
 Worse is better.
+One sitting.
 
 ## Setup
 
 - install MongoDb from http://docs.mongodb.org/manual/installation/
-- $ npm install
+- (in terminal)
+$ npm install
 - (new terminal, same dir) 
 $ mongod
 - (new terminal, same dir) 
 $ node server
-- ?
+- (in terminal)
+$ ./node_modules/mocha/bin/mocha
 
 ## Objectives
 
-- Node express REST API.
-- Mongo database.
+- Node express REST API
+- Mongo database
 
-## ...future?
+## TODO list
 
-- NB: Mocha+ TDD
-- Linting
-- Caching
+- Expand unit tests using boilerplate
+- JsHint
 - CI
-- Mongo experiments
+- Mongo experiments, first is caching solutions then object document storage suitability for EVAs and graphs
 
