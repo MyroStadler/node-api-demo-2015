@@ -5,6 +5,13 @@ Low level all the things.
 Worse is better.
 One sitting.
 
+I've used the well known winecellar CRUD pattern as a low-level (unabstracted) starting point.
+This then gets Mongo'd.
+Once the first API method is working via curl, add a unit testing framework (testing the tester).
+Once the unit testing framework succeeds, write the tests for all CRUD methods.
+Test drive.
+
+
 ## Setup
 
 - install MongoDb from http://docs.mongodb.org/manual/installation/
