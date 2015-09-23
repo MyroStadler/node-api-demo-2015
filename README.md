@@ -34,6 +34,7 @@ $ ./node_modules/mocha/bin/mocha
 - Expand unit tests using boilerplate
 - Introduce models
 - Grunt, JsHint
+- User access control patterns
 - CI
 - Mongo experiments, first is caching solutions then object document storage suitability for EVAs and graphs
 
